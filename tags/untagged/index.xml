@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mano Hugo tinklapis</title>
-    <link>https://MrPaska.github.io/</link>
-    <description>Recent content on Mano Hugo tinklapis</description>
+    <title>Untagged on Mano Hugo tinklapis</title>
+    <link>https://MrPaska.github.io/tags/untagged/</link>
+    <description>Recent content in Untagged on Mano Hugo tinklapis</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 May 2025 10:30:39 +0300</lastBuildDate>
-    <atom:link href="https://MrPaska.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://MrPaska.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Page</title>
       <link>https://MrPaska.github.io/posts/second-page/</link>
       <pubDate>Thu, 15 May 2025 10:30:39 +0300</pubDate>
       <guid>https://MrPaska.github.io/posts/second-page/</guid>
       <description>&lt;p&gt;Tai mano antrasis Hugo puslapis.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./static/images/hugo.jpg&#34; alt=&#34;Hugo paveiksliukas&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Žemiau pateikiamas „Python“ kodo blokas:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Simple python code&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveiki gyvi, what&amp;#39;s up??&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Mano pirmas Hugo puslapis</title>
-      <link>https://MrPaska.github.io/posts/first-page/</link>
-      <pubDate>Thu, 15 May 2025 09:55:31 +0300</pubDate>
-      <guid>https://MrPaska.github.io/posts/first-page/</guid>
-      <description>&lt;h1 id=&#34;laba-diena-visiems-sveiki&#34;&gt;Laba diena, visiems. Sveiki!!&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kaip sekasi?&lt;/li&gt;&#xA;&lt;li&gt;What&amp;rsquo;s up?&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
