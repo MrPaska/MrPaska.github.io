@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Mano Hugo tinklapis</title>
+        <link>https://MrPaska.github.io/posts/</link>
+        <description>Recent content in Posts on Mano Hugo tinklapis</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 15 May 2025 09:55:31 +0300</lastBuildDate>
+        <atom:link href="https://MrPaska.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Mano pirmas Hugo puslapis</title>
+            <link>https://MrPaska.github.io/posts/first-page/</link>
+            <pubDate>Thu, 15 May 2025 09:55:31 +0300</pubDate>
+            
+            <guid>https://MrPaska.github.io/posts/first-page/</guid>
+            <description>&lt;h1 id=&#34;laba-diena-visiems-sveiki&#34;&gt;Laba diena, visiems. Sveiki!!&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Kaip sekasi?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s up?&lt;/li&gt;
+&lt;/ul&gt;</description>
+            <content type="html"><![CDATA[<h1 id="laba-diena-visiems-sveiki">Laba diena, visiems. Sveiki!!</h1>
+<ul>
+<li>Kaip sekasi?</li>
+<li>What&rsquo;s up?</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
